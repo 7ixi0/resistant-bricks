@@ -1,0 +1,7 @@
+name: ResistantBricks
+description: Make stone bricks stronger by making them cracked stone bricks instead of dropping
+authors: [7ixi0]
+
+version: ${project.version}
+api-version: 1.13
+main: me.dariocrosa.resistantbricks.resistantbricks.ResistantBricks

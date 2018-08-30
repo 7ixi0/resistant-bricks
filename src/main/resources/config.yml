@@ -1,0 +1,8 @@
+# enable plugin for blocks broken by players
+players: true
+
+# let players in creative mode destroy stone bricks in one click
+disableIfCreative: true
+
+# enable plugin for blocks broken by explosions
+explosions: true
